@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    ".dart_tool": true,
+    ".packages": true,
+    "CHANGELOG.md": true,
+    "pubspec.lock": true
+  }
+}
